@@ -18,9 +18,9 @@ You can se the difference here:
 ## Technologies used
 To build this project I have used:
 
-### Framawork: Django and its API lib Rest_framework
+**Framawork**: Django and its API lib Rest_framework
 
 
-### Database: SQLite3
+**Database**: SQLite3
 
-### Cache: Redis to store cache.
+**Cache**: Redis to store cache.
