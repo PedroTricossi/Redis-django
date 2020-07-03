@@ -17,8 +17,12 @@ You can se the difference here:
 
 ## Technologies used
 To build this project I have used:
+
+### Framawork:
 Django and its API lib Rest_framework.
 
-SQLite3 as DB.
+###Database:
+SQLite3
 
+###Cache:
 Redis to store cache.
