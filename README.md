@@ -16,10 +16,8 @@ You can se the difference here:
 ![Alt text](./images/APIsem.png?raw=true "with")
 
 ## Technologies used
-To build this project I have used:
 
 **Framawork**: Django and its API lib Rest_framework
-
 
 **Database**: SQLite3
 
